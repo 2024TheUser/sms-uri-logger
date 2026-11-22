@@ -1,0 +1,5 @@
+Package: sms-uri-logger
+Version: 1.0
+Architecture: all
+Maintainer: Telegram @TheUser2026
+Description: Logs SMS URI handlers with hex UTC timestamps.

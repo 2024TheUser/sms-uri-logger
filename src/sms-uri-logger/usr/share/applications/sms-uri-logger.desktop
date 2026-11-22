@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=SMS URI Logger
+Exec=sms-uri-logger %u
+MimeType=x-scheme-handler/sms;x-scheme-handler/smsto;
+NoDisplay=true
+Terminal=false
